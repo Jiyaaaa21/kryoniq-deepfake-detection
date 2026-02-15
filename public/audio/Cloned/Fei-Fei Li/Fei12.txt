@@ -1,0 +1,1 @@
+At first, these systems recognize simple features — edges, tokens, correlations.

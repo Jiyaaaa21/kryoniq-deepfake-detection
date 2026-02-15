@@ -1,0 +1,3 @@
+For long stretches, the work is incremental: debugging, retraining, adjusting architectures, 
+solving small but stubborn constraints that don’t make headlines. 
+

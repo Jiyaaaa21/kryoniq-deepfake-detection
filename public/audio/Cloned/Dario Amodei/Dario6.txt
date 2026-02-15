@@ -1,0 +1,1 @@
+That recursive dynamic produces compounding returns. 
